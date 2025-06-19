@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <concesionaria_motos titulo="Inventario de Motos">
-    <moto categoria="deportiva">
+    <moto id="1" categoria="deportiva">
         <marca lang="es">Yamaha</marca>
         <modelo>YZF-R1</modelo>
         <anio>2024</anio>
@@ -18,7 +18,7 @@
         </caracteristicas>
     </moto>
 
-    <moto categoria="naked">
+    <moto id="2" categoria="naked">
         <marca lang="es">Honda</marca>
         <modelo>CB650R</modelo>
         <anio>2023</anio>
@@ -36,7 +36,7 @@
         </caracteristicas>
     </moto>
 
-    <moto categoria="custom">
+    <moto id="3" categoria="custom">
         <marca lang="es">Harley-Davidson</marca>
         <modelo>Iron 883</modelo>
         <anio>2022</anio>
@@ -54,7 +54,7 @@
         </caracteristicas>
     </moto>
 
-    <moto categoria="touring">
+    <moto id="4" categoria="touring">
         <marca lang="es">BMW Motorrad</marca>
         <modelo>R 1250 GS Adventure</modelo>
         <anio>2024</anio>
