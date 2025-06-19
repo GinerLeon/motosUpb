@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concesionaria_motos titulo="Inventario de Motos">
+    <moto categoria="deportiva">
+        <marca lang="es">Yamaha</marca>
+        <modelo>YZF-R1</modelo>
+        <anio>2024</anio>
+        <precio moneda="MXN">320000.00</precio>
+        <especificaciones categoria="motor">
+            <cilindrada>998cc</cilindrada>
+            <tipo_motor>4 cilindros en línea</tipo_motor>
+            <enfriamiento>Líquido</enfriamiento>
+        </especificaciones>
+        <caracteristicas categoria="generales">
+            <color>Azul Metálico</color>
+            <estado>Nueva</estado>
+            <disponibilidad>En Stock</disponibilidad>
+            <vin>JYARE1234567890AB</vin>
+        </caracteristicas>
+    </moto>
+
+    <moto categoria="naked">
+        <marca lang="es">Honda</marca>
+        <modelo>CB650R</modelo>
+        <anio>2023</anio>
+        <precio moneda="MXN">195000.00</precio>
+        <especificaciones categoria="motor">
+            <cilindrada>649cc</cilindrada>
+            <tipo_motor>4 cilindros en línea</tipo_motor>
+            <enfriamiento>Líquido</enfriamiento>
+        </especificaciones>
+        <caracteristicas categoria="generales">
+            <color>Negro Mate</color>
+            <estado>Nueva</estado>
+            <disponibilidad>En Stock</disponibilidad>
+            <vin>JH2RC8765432109DE</vin>
+        </caracteristicas>
+    </moto>
+
+    <moto categoria="custom">
+        <marca lang="es">Harley-Davidson</marca>
+        <modelo>Iron 883</modelo>
+        <anio>2022</anio>
+        <precio moneda="MXN">250000.00</precio>
+        <especificaciones categoria="motor">
+            <cilindrada>883cc</cilindrada>
+            <tipo_motor>V-Twin Evolution</tipo_motor>
+            <enfriamiento>Aire</enfriamiento>
+        </especificaciones>
+        <caracteristicas categoria="generales">
+            <color>Negro Brillante</color>
+            <estado>Usada</estado>
+            <disponibilidad>Vendida</disponibilidad>
+            <vin>1HD1JBM2XN4123456</vin>
+        </caracteristicas>
+    </moto>
+
+    <moto categoria="touring">
+        <marca lang="es">BMW Motorrad</marca>
+        <modelo>R 1250 GS Adventure</modelo>
+        <anio>2024</anio>
+        <precio moneda="MXN">450000.00</precio>
+        <especificaciones categoria="motor">
+            <cilindrada>1254cc</cilindrada>
+            <tipo_motor>Bóxer de 2 cilindros</tipo_motor>
+            <enfriamiento>Aire/Líquido</enfriamiento>
+        </especificaciones>
+        <caracteristicas categoria="generales">
+            <color>Blanco Alpino</color>
+            <estado>Nueva</estado>
+            <disponibilidad>Próximamente</disponibilidad>
+            <vin>WB10K5307PZ987654</vin>
+        </caracteristicas>
+    </moto>
+</concesionaria_motos>
