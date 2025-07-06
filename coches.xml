@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo_coches>
+    <autor>Carlos Pérez</autor>
+    <tema>Historia de los coches clásicos</tema>
+    <coches>
+        <coche>
+            <marca>Ford</marca>
+            <modelo>Mustang</modelo>
+            <año>1967</año>
+            <caracteristicas>
+                <motor>V8 4.7L</motor>
+                <potencia>230 HP</potencia>
+                <transmision>Manual 4 velocidades</transmision>
+            </caracteristicas>
+            <historia>El Mustang 1967 fue uno de los modelos más icónicos de la era muscle car.</historia>
+        </coche>
+        <coche>
+            <marca>Chevrolet</marca>
+            <modelo>Camaro</modelo>
+            <año>1969</año>
+            <caracteristicas>
+                <motor>V8 5.7L</motor>
+                <potencia>290 HP</potencia>
+                <transmision>Manual 4 velocidades</transmision>
+            </caracteristicas>
+            <historia>El Camaro 1969 fue la respuesta de Chevrolet al Ford Mustang.</historia>
+        </coche>
+        <coche>
+            <marca>Volkswagen</marca>
+            <modelo>Escarabajo</modelo>
+            <año>1972</año>
+            <caracteristicas>
+                <motor>Bóxer 1.6L</motor>
+                <potencia>50 HP</potencia>
+                <transmision>Manual 4 velocidades</transmision>
+            </caracteristicas>
+            <historia>El Escarabajo es uno de los coches más vendidos de la historia.</historia>
+        </coche>
+    </coches>
+</catalogo_coches>
